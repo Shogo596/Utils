@@ -7,6 +7,14 @@ Utils
 ## 詳細
 機能一覧
 
-- Batch/GetIni.bat
-  - 任意のINIファイルから設定値を取得して環境変数に格納する。
+#### Batch
+- GetDate.bat
+  - 当日日付と前日日付を取得して環境変数に格納する。
 
+- GetIni.bat
+  - 任意のINIファイルから設定値を取得して環境変数に格納する。
+<br>
+
+#### C#
+- CommonUtility.cs
+  - いろいろなところで使えそうな共通関数群
